@@ -1,5 +1,5 @@
 # iot-mini-project-
-temperature based fan speed controller
+
 # Temperature-Based Fan Speed Controller Using Arduino UNO
 
 A beginner-friendly Arduino project that adjusts the speed of a DC fan based on temperature readings from an LM35 sensor. Ideal for cooling or thermal management applications.
